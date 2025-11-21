@@ -51,7 +51,7 @@ Este projeto foi construído do zero utilizando tecnologias web fundamentais, co
 
 Desenvolvido por **Mônica Evangelista**.
 
--   LinkedIn https://www.linkedin.com/in/monicaevangelista/
+-   LinkedIn https://www.linkedin.com/in/monicabevangelista/
 -   GitHub https://github.com/monicaevangelista
 
 ---
