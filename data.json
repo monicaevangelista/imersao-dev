@@ -1,0 +1,14 @@
+[
+    {
+    "nome":"JavaScript",
+    "descrição":"O JS é a linguagem da web",
+    "ano": 1995,
+    "link":"https://developer.mozilla.org/pt-BR/docs/Web/JavaScript"
+},
+{
+    "nome":"Python",
+    "descrição":"Python é a linguagem da ciências de dados e IA.",
+    "ano": 1991,
+    "link":"https://docs.python.org/pt-br/3.14/"
+}
+]
